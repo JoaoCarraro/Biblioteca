@@ -1,12 +1,26 @@
-# Biblioteca
-O presente projeto nasceu de uma atividade da Alura (escola de cursos online em tecnologia) para a formação em Dados, 7 dias de código. Os dados foram extraídos dessa atividade,
-porém todas as análises escritas oriunda da aplicação dos códigos são 100% de minha autoria. Essa atividade se propunha em fornecer uma demanda a ser realizada.
-O que eu fiz no presente projeto, foi organizar as informações disponíveis da atividade que estavam esparsas e montei um plano de negócio detalhado. 
+## <h1 align="center"> Descrição do Projeto Biblioteca :books: </h1> 
+O presente projeto nasceu de uma atividade da Alura (escola de cursos online em tecnologia) para a formação em Dados, **7 Days of code** e foi desenvolvido 100% em Python. Os dados foram extraídos dessa atividade, eles foram organizados em um plano de negócio detalhado 100% autoral e foram também adicionados análises com teste de hipótese e outras abordagens gráficas para visualizar a variação dos dados de empréstimos. 
 
-O desenvolvimento desse projeto foi muito desafiador, pois as variáveis de número de empréstimos não estavam disponíveis. Foi necessário realizar diversos tratamentos para extraí-los, pois 
-só estavam disponíveis as datas dos empréstimos e os números de matricula dos usuários que realizaram esses empréstimos. Foi necessário transformar as datas em datetime e aplicar funções
-de agrupamento para construir a informação do número de empréstimos. A partir daí, pode-se realizar uma série de análises e medidas para entender o funcionamento e o comportamento dos usuários,
-como o demonstrado no presente projeto.
+## <h1 align="center"> Métodos e Bibliotecas 🖥️: </h1> 
 
-Graças a maneira como os dados estavam organizados, eu pude me desenvolver plenamente na manipulação dos objetos e de realizar diversos tratamentos para explorá-los a fim de obter as 
-respostas para as perguntas dos gestores e gerar insights para melhorar o funcionamento interno.
+### Principais métodos para o Tratamento dos Dados: 💾:
+* Utilização dos métodos `.read_csv()`, `.read_json()`, `.head()`, `.rename()`, `.merge()`, `.sort_values()`, `.pivot_table()`, `.drop()`, `.reset_index()`, `.insert()` da biblioteca Pandas;
+
+### Bibliotecas PYTHON para realização da EDA e dos Testes: :panda_face: 
+* PANDAS
+* NUMPY
+* SEABORN
+* MATPLOTLIB
+* SCIPY.STATS
+
+## <h1 align="center"> Principais Lições :relaxed: </h1> 
+O desenvolvimento desse projeto foi muito desafiador, pois as variáveis de número de empréstimos não estavam disponíveis nos dados baixados, sendo a única informação disponível com relação aos empréstimos era a data e o número de matricula realizado por cada aluno. A data de empréstimo estava associada a outras informações que puderam ser associadas posteriormente com as funções de agrupamento. No entanto, para fornecer os números de empréstimos por ano, meses, horas, usuários, etc, foi necessário realizar diversos tratamentos para extraí-los. 
+
+A principal abordagem foi transformar as datas de empréstimos que estavam tipo  em datetime e aplicar funções de agrupamento para construir a informação do número de empréstimos. A partir daí, pode-se realizar a EDA, gerando conclusões e insights para a equipe gestora.
+
+Assim, na construção desse projeto pude explorar e desenvolver os atributos de extração, manipulação e tratamento dos dados, muito utilizados na análise de dados, bem como utilizar a parte gráfica para explicitar o que os números estavam mostrando, onde prosseguir e desenvolver testes de hipóteses para pode realizar afirmações a respeito da tendência geral. A soma dessas etapas todas, resultou em insights que nortearão as decisões futuras da equipe gestora.
+
+#### Agradecimento Especial ao Francisco Tadeu Foz:raised_hands: 
+Muito obrigado pelas trocas em todo o processo de desenvolvimento deste projeto!!
+
+#### Disclaimer: **Neste projeto, a formatação foi modificada em relação ao que foi proposto na atividade, a fim de caracterizar um plano de negócio, onde todas as interpretações das análises e insights propostos são originais do autor.**
