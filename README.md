@@ -1,4 +1,7 @@
-## <h1 align="center"> Descrição do Projeto Biblioteca :books: </h1> 
+## <h1 align="center"> Descrição do Projeto Biblioteca :books: </h1>
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 O presente projeto nasceu de uma atividade da Alura (escola de cursos online em tecnologia) para a formação em Dados, **7 Days of code** e foi desenvolvido 100% em Python. Os dados foram extraídos dessa atividade, eles foram organizados em um plano de negócio detalhado 100% autoral e foram também adicionados análises com teste de hipótese e outras abordagens gráficas para visualizar a variação dos dados de empréstimos. 
 
 ## <h1 align="center"> Métodos e Bibliotecas 🖥️: </h1> 
