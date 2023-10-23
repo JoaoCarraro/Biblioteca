@@ -7,7 +7,7 @@ O presente projeto nasceu de uma atividade da Alura (escola de cursos online em 
 ## <h1 align="center"> Métodos e Bibliotecas 🖥️: </h1> 
 
 ### Principais métodos para o Tratamento dos Dados: 💾:
-* Utilização dos métodos `.read_csv()`, `.read_json()`, `.head()`, `.rename()`, `.concat()`, `.to_datetime()`, `.merge()`, `.sort_values()`, `.pivot_table()`, `.drop()`, `.reset_index()`, `.insert()` da biblioteca Pandas;
+* Utilização dos métodos `.read_csv()`, `.read_json()`, `.head()`, `.rename()`, `.concat()`, `.to_datetime()`, `.merge()`, `.sort_values()`, `.pivot_table()`, `.drop()`, `.reset_index()` da biblioteca Pandas;
 
 ### Bibliotecas PYTHON para realização da EDA e dos Testes: :panda_face: 
 * PANDAS
