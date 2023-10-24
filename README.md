@@ -2,7 +2,9 @@
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
 </h4>
-O presente projeto nasceu de uma atividade da Alura (escola de cursos online em tecnologia) para a formação em Dados, **7 Days of code** e foi desenvolvido 100% em Python. Os dados foram extraídos dessa atividade, eles foram organizados em um plano de negócio detalhado 100% autoral e foram também adicionados análises com teste de hipótese e outras abordagens gráficas para visualizar a variação dos dados de empréstimos. 
+O presente projeto nasceu de uma atividade da Alura (escola de cursos online em tecnologia) para a formação em Dados, **7 Days of code** e foi desenvolvido 100% em Python. Os dados foram extraídos dessa atividade e a estes dados foram adicionados um plano de negócio detalhado, análises com teste de hipótese e outras abordagens gráficas para visualizar a variação do número de empréstimos, todos estes acréscimos são 100% autorais. 
+
+O objetivo do trabalho foi fornecer a nova gestão da Biblioteca Central UFRN, uma visão completa do funcionamento da instituição a partir dos dados. Como esta será a primeira gestão a realizar todas as tomadas de decisões com base em dados, foram entregues os resultados do número de empréstimos geral da biblioteca; quais acervos são os mais acessados, quais cursos mais utilizaram o serviço de empréstimos da biblioteca e foram verificados os horários e meses de maior e menor movimento da biblioteca para organização interna dos funcionários, com foco na realização de atividades de capacitação, folgas e férias.
 
 ## <h1 align="center"> Métodos e Bibliotecas 🖥️: </h1> 
 
